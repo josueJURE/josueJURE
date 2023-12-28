@@ -1,4 +1,4 @@
-### Hi there, I’m xxxx. I’m a developer and also a language enthusiast. 👋
+### Hi there, I’m Josué. I’m a developer and also a language enthusiast. 👋
 
 - 🔭 I’m currently working on a JS calculator and edeveloping a server based app using Express.js which calls openAI API
 - 🌱 I’m currently learning JS, CSS, HTML, DOM manipulation, Node.js, Express, testing etc...
