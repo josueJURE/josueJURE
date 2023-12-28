@@ -1,6 +1,6 @@
 ### Hi there I'm Josué 👋
 
-- 🔭 I’m currently working on a JS calculator.
+- 🔭 I’m currently working on a JS calculator and edeveloping a server based app using Express.js which calls openAI API
 - 🌱 I’m currently learning JS, CSS, HTML, DOM manipulation, Node.js, Express, testing etc...
 - 👯 I’m looking to collaborate on opend source projects
 - 🤔 I’m looking for help with SQL
