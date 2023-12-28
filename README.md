@@ -1,5 +1,7 @@
 ### Hi there, I’m Josué. I’m a developer and also a language enthusiast. 👋
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 - 🔭 I’m currently working on a JS calculator and edeveloping a server based app using Express.js which calls openAI API
 - 🌱 I’m currently learning JS, CSS, HTML, DOM manipulation, Node.js, Express, testing etc...
 - 👯 I’m looking to collaborate on opend source projects
