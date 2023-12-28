@@ -1,6 +1,6 @@
 ### Hi there I'm Josué 👋
 
-<!--
+
 **josueJURE/josueJURE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: josue.jure@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I pick up a new language every 3 years. I’m learning Portuguese, which, including Japanese, is my 5th language. 
--->
+
