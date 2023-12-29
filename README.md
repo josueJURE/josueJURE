@@ -9,5 +9,7 @@
 - 💬 Ask me about JS, CSS HTML design
 - 📫 How to reach me: josue.jure@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I pick up a new language every 3 years. I’m learning Portuguese, which, including Japanese, is my 5th language. 
+- ⚡ Fun fact: I pick up a new language every 3 years. I’m learning Portuguese, which, including Japanese, is my 5th language.
+
+![Alt Text](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
