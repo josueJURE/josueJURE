@@ -13,3 +13,5 @@
 
 ![Alt Text](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
+I also LOVE cats, especially if they can debug my code :-)
+
