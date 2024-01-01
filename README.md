@@ -13,5 +13,11 @@
 
 ![Alt Text](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
-I also adore cats, especially when they can help debug my code. 😺🐾
+### I also adore cats, especially when they can help debug my code. 😺🐾
+
+### I'm currently enrolled in a coding bootcamp with some awesome people at Founders and Coders.
+
+![Alt Text](https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif)
+
+
 
