@@ -11,9 +11,10 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I pick up a new language every 3 years. I’m learning Portuguese, which, including Japanese, is my 5th language.
 
-![Alt Text](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
 ### I also adore cats, especially when they can help debug my code. 😺🐾
+
+![Alt Text](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
 ### I'm currently enrolled in a coding bootcamp with some awesome people at Founders and Coders.
 
