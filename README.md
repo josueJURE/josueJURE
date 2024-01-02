@@ -20,5 +20,11 @@
 
 ![Alt Text](https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif)
 
+I'm learning:
+- Front- and back-end development with Git, JavaScript, and HTML/CSS.
+- DevOps engineering using Amazon Web Services
+- AI Engineering using the Open AI API
+- and other technologies...
+
 
 
