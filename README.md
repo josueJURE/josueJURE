@@ -1,6 +1,6 @@
 ### Hi there, I’m Josué. I’m a developer and also a language enthusiast. 👋
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGnhHBf-8TXR_gzUP7jrNzY7KGnNqf_e2J1g&usqp=CAU)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejswasm%29)](https://bing.com/search?q=)
 
 - 🔭 I’m currently working on a JS calculator and edeveloping a server based app using Express.js which calls openAI API
 - 🌱 I’m currently learning JS, CSS, HTML, DOM manipulation, Node.js, Express, testing etc...
