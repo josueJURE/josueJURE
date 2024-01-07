@@ -26,5 +26,9 @@ I'm learning:
 - AI Engineering using the Open AI API
 - and other technologies...
 
+- ![Alt Text](https://www.foundersandcoders.com/)
+
+
+
 
 
