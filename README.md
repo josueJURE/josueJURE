@@ -2,9 +2,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejswasm%29)](https://bing.com/search?q=)
 
-- 🔭 I’m currently working on a JS calculator and edeveloping a server based app using Express.js which calls openAI API
-- 🌱 I’m currently learning JS, CSS, HTML, DOM manipulation, Node.js, Express, testing etc...
-- 👯 I’m looking to collaborate on opend source projects
+- 🔭 I’m currently building a recipe app, which integrates the ChatGPT OpenAI API. 
+- 🌱 I’ve mastered JS, CSS, HTML, DOM manipulation, Node.js, Express, Git...
+- 👯 I’m learning testing.
 - 🤔 I’m looking for help with SQL
 - 💬 Ask me about JS, CSS HTML design
 - 📫 How to reach me: josue.jure@gmail.com
@@ -16,11 +16,11 @@
 
 ![Alt Text](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
-### I'm currently enrolled in a coding bootcamp with some awesome people at Founders and Coders.
+### I did a coding bootcamp with some awesome people at Founders and Coders.
 
 ![Alt Text](https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif)
 
-I'm learning:
+We covered:
 - Front- and back-end development with Git, JavaScript, and HTML/CSS.
 - DevOps engineering using Amazon Web Services
 - AI Engineering using the Open AI API
