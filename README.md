@@ -3,7 +3,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejswasm%29)](https://bing.com/search?q=)
 
 - 🔭 I’m currently building a recipe app, which integrates the ChatGPT OpenAI API. 
-- 🌱 I’ve mastered JS, CSS, HTML, DOM manipulation, Node.js, Express, Git...
+- 🌱 I’ve mastered JS, TypeScript, CSS, HTML, DOM manipulation, Node.js, Express, Git...
 - 👯 I’m learning testing.
 - 🤔 I’m looking for help with SQL
 - 💬 Ask me about JS, CSS HTML design
