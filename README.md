@@ -5,7 +5,6 @@
 - 🔭 I’m currently building a recipe app, which integrates the ChatGPT OpenAI API. 
 - 🌱 I’ve mastered JS, TypeScript, CSS, HTML, DOM manipulation, Node.js, Express, Git...
 - 👯 I’m learning testing.
-- 🤔 I’m looking for help with SQL
 - 💬 Ask me about JS, CSS HTML design
 - 📫 How to reach me: josue.jure@gmail.com
 - 😄 Pronouns: he/him
