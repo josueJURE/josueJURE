@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,py,git,wasm%29)](https://bing.com/search?q=)
 
-- 🔭 I'm *currently working pro bono as a software developer* for a charity in order to do some good and hone my skills working on real-life projects. 
+- 🔭 I'm ###currently working pro bono as a software developer### for a charity in order to do some good and hone my skills working on real-life projects. 
 - 🌱 I’ve mastered JS, TypeScript, CSS, HTML, DOM manipulation, Node.js, Express, Git...
 - 👯 I’m learning testing.
 - 💬 Ask me about JS, CSS HTML design
