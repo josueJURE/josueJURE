@@ -1,6 +1,6 @@
 ### Hi there, I’m Josué. I’m a developer and also a language enthusiast. 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejswasm%29)](https://bing.com/search?q=)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,nodejswasm%29)](https://bing.com/search?q=)
 
 - 🔭 I’m currently building a recipe app, which integrates the ChatGPT OpenAI API. 
 - 🌱 I’ve mastered JS, TypeScript, CSS, HTML, DOM manipulation, Node.js, Express, Git...
