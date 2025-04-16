@@ -9,7 +9,7 @@
 <!-- Tech Stack with Animated Icons -->
 ### 🛠️ **My Tech Arsenal**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,prisma,postgres,git,github,figma,vscode&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,prisma,git,github,vscode&perline=7" alt="Tech Stack" />
 </div>
 
 <!-- Stats Dashboard -->
