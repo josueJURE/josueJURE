@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7E3ACE&width=600&height=80&lines=Hey+there%2C+I'm+Josué+JURE!;Full-Stack+Developer;React+%7C+TypeScript+%7C+Node.js" alt="Typing Animation" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7E3ACE&width=600&height=80&lines=Hey+there%2C+I'm+Josué+JURE!;Full-Stack+Web+Developer;React+%7C+TypeScript+%7C+Node.js" alt="Typing Animation" />
-</div>
-
 <!-- Animated Divider -->
 <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png?raw=true" width="100%">
 
