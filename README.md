@@ -1,7 +1,7 @@
 ### Hi there, I’m Josué. I’m a developer and also a language enthusiast. 👋
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,py,git,wasm%29)](https://bing.com/search?q=)
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,py,git,wasm,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,py,git,prisma)](https://skillicons.dev)
 
 - 🔭 I'm currently working pro bono as a software developer for a charity in order to do some good and hone my skills working on real-life projects. 
 - 🌱 I’ve mastered JS, TypeScript, CSS, HTML, DOM manipulation, Node.js, Express, Git...
