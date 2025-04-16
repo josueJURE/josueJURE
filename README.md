@@ -16,7 +16,7 @@
 ## 📈 **GitHub Analytics**
 <div align="center">
   
-| ![Detailed Stats](https://github-readme-stats.vercel.app/api?username=JosueJURE&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&include_all_commits=true) | ![Streak Stats](https://streak-stats.demolab.com?user=JosueJURE&theme=radical&hide_border=true&background=0d1117&fire=DD2727&ring=DD2727) |
+
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueJURE&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8)                    | ![Trophies](https://github-profile-trophy.vercel.app/?username=JosueJURE&theme=radical&no-bg=true&no-frame=true&margin-w=15&row=2)       |
 
