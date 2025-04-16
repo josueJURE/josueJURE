@@ -15,19 +15,13 @@
 
 ---
 
-### 🌟 **Featured Projects**  
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=JosueJURE&repo=REPO_NAME&theme=radical)](https://recipe-for-success.onrender.com)  
-*Short description of the project.*  
-
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=JosueJURE&repo=REPO_NAME&theme=radical)](https://github.com/JosueJURE/REPO_NAME)  
-*Short description of the project.*  
 
 ---
 
 📫 **Connect with me:**  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/your-profile)  
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/your-handle)  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](http://linkedin.com/in/josue-jure)  
+
 
 
 
