@@ -25,7 +25,7 @@
 ## 🚀 **Featured Creations**
 <div align="center">
   
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=JosueJURE&repo=REPO_1&theme=radical&show_owner=true)](https://github.com/JosueJURE/REPO_1)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=JosueJURE&repo=my-portfolio_1&theme=radical&show_owner=true)](https://github.com/JosueJURE/REPO_1)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=JosueJURE&repo=REPO_2&theme=radical&show_owner=true)](https://github.com/JosueJURE/REPO_2)
 
 </div>
