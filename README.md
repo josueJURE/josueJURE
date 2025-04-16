@@ -19,7 +19,7 @@
 
 ---
 
-📫 **Connect with me:**  
+📫 **Connect with me on LinkedIn by clicing on the icon below:**  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](http://linkedin.com/in/josue-jure)  
 
 
