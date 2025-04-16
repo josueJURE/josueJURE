@@ -36,8 +36,6 @@ We covered:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JosueJURE&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JosueJURE&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosueJURE&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
