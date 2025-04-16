@@ -9,7 +9,7 @@
 <!-- Tech Stack -->
 ## 🛠️ **Tech Stack**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,prisma,postgres,git,github,vscode&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,prisma,git,github,vscode&perline=6" alt="Tech Stack" />
 </div>
 
 <!-- GitHub Stats Section -->
