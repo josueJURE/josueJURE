@@ -17,7 +17,7 @@
 
 ### 🌟 **Featured Projects**  
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=JosueJURE&repo=REPO_NAME&theme=radical)](https://github.com/JosueJURE/REPO_NAME)  
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=JosueJURE&repo=REPO_NAME&theme=radical)](https://recipe-for-success.onrender.com)  
 *Short description of the project.*  
 
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=JosueJURE&repo=REPO_NAME&theme=radical)](https://github.com/JosueJURE/REPO_NAME)  
