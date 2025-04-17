@@ -20,6 +20,15 @@
 |------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueJURE&layout=compact&theme=radical&hide_border=true&langs_count=8) | ![Trophies](https://github-profile-trophy.vercel.app/?username=JosueJURE&theme=radical&rank=SSS,SS,S,AAA,AA,A,B&no-bg=true&no-frame=true) |
 
+## 📬 **Contact Me**
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@DOMAIN.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7E3ACE?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+
+</div>
+
 </div>
 
 
