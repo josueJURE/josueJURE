@@ -29,6 +29,7 @@
 
 </div>
 
+## Video
 <video src="recipe_app_video.mp4" width="600" controls>Video</video>
 
 </div>
