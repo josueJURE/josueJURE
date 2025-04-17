@@ -31,7 +31,7 @@
 
 ## Video
 ## 🎥 Project Demo
-<video src="https://github.com/JosueJURE/my-portfolio/raw/main/public/video/recipe_app_video.mp4" width="600" controls></video>
+<video src="https://github.com/JosueJURE/my-portfolio/public/video/recipe_app_video.mp4" width="600" controls></video>
 
 </div>
 
