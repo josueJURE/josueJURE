@@ -29,13 +29,7 @@
 
 </div>
 
-## Video
-## 🎥 Project Demo
-<div align="center">
-  <video src="https://github.com/JosueJURE/my-portfolio/raw/main/public/video/recipe_app_video.mp4" width="800" controls style="border-radius: 10px; box-shadow: 0 4px 8px rgba(126, 58, 206, 0.2);">
-    Your browser does not support the video tag.
-  </video>
-</div>
+
 </div>
 
 
