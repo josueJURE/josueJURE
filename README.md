@@ -30,7 +30,8 @@
 </div>
 
 ## Video
-<video src="recipe_app_video.mp4" width="600" controls>Video</video>
+## 🎥 Project Demo
+<video src="https://github.com/JosueJURE/my-portfolio/raw/main/recipe_app_video.mp4" width="600" controls></video>
 
 </div>
 
