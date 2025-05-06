@@ -29,7 +29,11 @@
 
 </div>
 
-
+## 😸 **Fun Fact About Me**
+<div align="center">
+  I love cats! Here's a cute cat GIF for you: <br>
+  <a href="https://images.app.goo.gl/CZTYtp892fZMsfTT8" target="_blank">🐱 Click to see cat GIF 🐱</a>
+</div>
 </div>
 
 
