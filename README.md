@@ -17,9 +17,7 @@
 <div align="center">
 
 
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueJURE&layout=compact&theme=radical&hide_border=true&langs_count=8) | ![Trophies](https://github-profile-trophy.vercel.app/?username=JosueJURE&theme=radical&rank=SSS,SS,S,AAA,AA,A,B&no-bg=true&no-frame=true) |
-
-## 📬 **Contact Me**
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueJURE&layout=compact&theme=radical&hide_border=true&langs_count=8) |
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/josue-jure)
