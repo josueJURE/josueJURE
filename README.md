@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=7E3ACE&width=600&height=80&lines=Hey+there%2C+I'm+Josué+JURE!;Web+Developer;React+%7C+TypeScript+%7C+Node.js" alt="Typing Animation" /> -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=7E3ACE&width=600&height=80&lines=Hey+there%2C+I'm+Josué+JURE!;Web+Developer;React+%7C+TypeScript+%7C+Node.js" alt="Typing Animation" />
 
   
 </div>
