@@ -2,11 +2,21 @@
 
 
 <div align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=7E3ACE&width=600&height=80&lines=Hey+there%2C+I'm+Josué+JURE!;Web+Developer;React+%7C+TypeScript+%7C+Node.js&repeat=false"
-    alt="Header"
-  />
+
+<h1 style="color:#7E3ACE; font-family: 'Fira Code', monospace;">
+  Hey there, I'm Josué JURE!
+</h1>
+
+<h3 style="font-family: 'Fira Code', monospace;">
+  Web Developer
+</h3>
+
+<p style="font-family: 'Fira Code', monospace;">
+  React | TypeScript | Node.js...
+</p>
+
 </div>
+
 
 
 <!-- Animated Divider -->
