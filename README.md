@@ -8,9 +8,9 @@
   Web Developer
 </h1>
 
-<p>
+<h1>
   React | TypeScript | Node.js ...
-</p>
+</h1>
 
 <hr style="width:60%; margin:auto;" />
 
@@ -20,8 +20,6 @@
 
 
 
-<!-- Animated Divider -->
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/colored.png?raw=true" width="100%">
 
 <!-- Tech Stack -->
 ## 🛠️ **Tech Stack**
