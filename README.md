@@ -21,15 +21,7 @@
 
 
 
-<!-- Tech Stack -->
-## 🛠️ **Tech Stack**
-<!-- <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,prisma,git,github,vscode&perline=6" alt="Tech Stack" />
-</div> -->
 
-<!-- GitHub Stats Section -->
-## 📈 **GitHub Analytics**
-<div align="center">
 
 
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueJURE&layout=compact&theme=radical&hide_border=true&langs_count=8) |
