@@ -2,11 +2,20 @@
 
 
 <div align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=7E3ACE&width=600&height=80&lines=Hey+there%2C+I'm+Josué+JURE!;Web+Developer;React+%7C+TypeScript+%7C+Node.js&repeat=false"
-    alt="Header"
-  />
+
+
+<h1>
+  Web Developer
+</h1>
+
+<p>
+  React | TypeScript | Node.js ...
+</p>
+
+<hr style="width:60%; margin:auto;" />
+
 </div>
+
 
 
 
