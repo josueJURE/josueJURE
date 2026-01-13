@@ -1,4 +1,4 @@
-<!-- Animated Header -->
+
 
 
 <div align="center">
@@ -19,13 +19,6 @@
 
 
 
-
-
-
-
-
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueJURE&layout=compact&theme=radical&hide_border=true&langs_count=8) |
-<div align="center">
 
 
 </div align="center">
