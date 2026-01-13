@@ -12,7 +12,7 @@
   React | TypeScript | Node.js ...
 </h1>
 
-<hr style="width:60%; margin:auto;" />
+
 
 </div>
 
