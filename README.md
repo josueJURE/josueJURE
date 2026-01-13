@@ -2,7 +2,7 @@
 
 <h1>Web Developer</h1>
 
-<h2>React | TypeScript | Node.js</h2>
+<h2>React | TypeScript | Node.js...</h2>
 
 <br />
 
