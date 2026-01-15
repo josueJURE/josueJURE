@@ -4,6 +4,10 @@
 
 <h2>React | TypeScript | Node.js...</h2>
 
+<div>
+  Node.js, React, TypeScript and Zod are some of the tools that I use at CAFOD, an organisation that fights injustice and poverty. I have successfully delivered features for CAFOD’s first AI-powered News Alert product, using Next.js, JavaScript, TypeScript, React, Tailwind CSS and AI to enhance development workflows. I am also a language enthusiast and can speak five languages to varying degrees of fluency.
+</div>
+
 <a href="http://linkedin.com/in/josue-jure">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
