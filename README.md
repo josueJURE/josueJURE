@@ -3,7 +3,7 @@
 <h1>👨‍💻 Web Developer</h1>
 
 <p>
-  <strong>React</strong> · <strong>TypeScript</strong> · <strong>Node.js</strong> · Next.js · PostgreSQL
+  <strong>React</strong> · <strong>TypeScript</strong> · <strong>Node.js</strong> · <strong>Next.js</strong>  · <strong>PostgreSQL</strong> 
 </p>
 
 <hr width="60%" />
